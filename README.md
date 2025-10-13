@@ -100,3 +100,41 @@ In a booking platform like Airbnb, **usability and trust** are critical — user
 A strong UI/UX design not only improves conversions but also builds credibility, loyalty, and overall product success.
 
 ---
+
+## 👥 Project Roles and Responsibilities
+
+### 🎯 **Objective**
+This section defines the key **roles and responsibilities** of each team member involved in the AirBnB Clone project.  
+Clearly defining these roles ensures smooth collaboration, accountability, and alignment toward achieving the project’s goals.
+
+---
+
+### 🧩 **Roles and Their Responsibilities**
+
+| **Role** | **Responsibilities** |
+|-----------|----------------------|
+| **Project Manager (PM)** | Oversees the entire project lifecycle — from planning to delivery. Manages timelines, allocates tasks, resolves conflicts, and ensures that milestones are achieved on schedule. Acts as the bridge between stakeholders and the technical team. |
+| **Product Owner (PO)** | Defines the project vision and goals. Prioritizes features, manages the product backlog, and ensures the final product aligns with user needs and business objectives. |
+| **Scrum Master** | Facilitates Agile ceremonies (daily stand-ups, sprint planning, retrospectives). Removes obstacles for the team and ensures adherence to Agile principles for efficient workflow. |
+| **Frontend Developers** | Responsible for building the user interface (UI) and ensuring a seamless user experience (UX). Implement responsive designs, integrate with backend APIs, and ensure accessibility and cross-browser compatibility. |
+| **Backend Developers** | Handle server-side logic, API development, and database interactions. Ensure system security, scalability, and integration with external services (e.g., payments, authentication). |
+| **Designers (UI/UX)** | Create wireframes, mockups, and prototypes to define the visual style and user flow of the application. Ensure the platform is intuitive, appealing, and user-friendly. |
+| **QA/Testers** | Conduct manual and automated testing to identify bugs and verify that new features meet quality standards. Document issues and ensure fixes before deployment. |
+| **DevOps Engineers** | Manage deployment pipelines, server infrastructure, and CI/CD processes. Automate builds, monitor performance, and maintain reliability in production environments. |
+
+---
+
+### 💡 **How These Roles Work Together**
+Each role plays a vital part in the success of the AirBnB Clone project:
+
+- The **Product Owner** sets the direction and vision.  
+- The **Project Manager** and **Scrum Master** ensure the team stays on track and follows Agile principles.  
+- The **Frontend** and **Backend Developers** collaborate closely to deliver functional and beautiful features.  
+- **Designers** create the blueprint for user interaction and experience.  
+- **QA/Testers** ensure the final product meets quality and reliability standards.  
+- **DevOps Engineers** ensure smooth deployment and continuous delivery.  
+
+Together, these roles create a balanced and high-performing team capable of delivering a production-ready software solution.
+
+---
+---
