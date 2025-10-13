@@ -137,4 +137,16 @@ Each role plays a vital part in the success of the AirBnB Clone project:
 Together, these roles create a balanced and high-performing team capable of delivering a production-ready software solution.
 
 ---
+. UI Component Patterns
+mandatory
+Objective: Begin exploring the UI components for the AirBnB Clone project.
+
+Instructions:
+
+In the README.md, create a new section titled “UI Component Patterns”
+Describe the components you plan to create, such as a Navbar, Property Card, and Footer
+Repo:
+
+GitHub repository: airbnb-clone-project
+File: README.md
 ---
